@@ -17,3 +17,7 @@ Performance of crane-tip localization
 |--------|---------|
 | ![image](figures/qualitative_safe.png) | ![image](figures/qualitative_near_collision.png) |
 ## Demo
+
+
+https://github.com/user-attachments/assets/836c174f-2e56-47f0-99c8-24e2fbeadef0
+
